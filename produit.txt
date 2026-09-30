@@ -1,0 +1,3 @@
+Nom : Sac a main SenShop
+Prix : 15000 FCFA
+Description : Sac artisanal, cuir vegetal.
