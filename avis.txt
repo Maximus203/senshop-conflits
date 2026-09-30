@@ -2,3 +2,4 @@ avis.txt
 etoiles
 commentaire
 moderation
+notation-etoiles
